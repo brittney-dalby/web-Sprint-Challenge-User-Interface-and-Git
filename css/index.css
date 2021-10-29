@@ -150,6 +150,13 @@ nav a {
     text-decoration:none;
     color: black;
 }
+header{
+    width:100%;
+    margin: 0 auto;
+}
+header .logo{
+    margin-left:25%;
+}
 header nav{
     padding: 2% 0;
     display:flex;
@@ -162,11 +169,12 @@ header nav{
     display:flex;
     justify-content:space-evenly;
 }
-header nav .logo{
-    width:
-    display: flex;
-}
 .header-img{
     display: flex;
     justify-content:center;
+}
+.about-content{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
 }
