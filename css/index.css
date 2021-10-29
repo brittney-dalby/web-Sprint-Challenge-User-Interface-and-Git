@@ -262,11 +262,10 @@ header nav{
     display: flex;
     justify-content:center;
 }
-.about-content{
-    display:flex;
-    flex-wrap:wrap;
+.about-section{
+    padding:5%;
 }
-.text{
+.text-container{
     display:flex;
-    flex-wrap:wrap;
+    justify-content: center;
 }
